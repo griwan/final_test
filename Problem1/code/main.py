@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import pandas as pd
-df =pd.read_csv("intelligentGuessingDataSet.csv",encoding='latin-1')
+df =pd.read_csv("../intelligentGuessingDataSet.csv",encoding='latin-1')
 
 df
 
